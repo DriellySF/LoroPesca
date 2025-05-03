@@ -9,7 +9,7 @@ Este é um aplicativo de perguntas e respostas sobre o catálogo de produtos da 
 - [LangChain](https://www.langchain.com/)
 - [OpenRouter](https://openrouter.ai/)
 ---
-## Acesse o projeto clicando [aqui](https://driellysf-chat-main-pghaim.streamlit.app/)
+## Acesse o projeto clicando [aqui](https://mainpy-fcxwavudwmpvbpkhraxo6a.streamlit.app/)
 
 ## Como rodar o projeto localmente
 
@@ -64,4 +64,4 @@ http://localhost:8501
 <img src="https://raw.githubusercontent.com/DriellySF/chat/main/img/img%20(2).png" width="600" />
 <img src="https://raw.githubusercontent.com/DriellySF/chat/main/img/img%20(1).png" width="600" />
 
-Para saber mais sobre o processo de criação e aprendizado, clique em [Linha de raciocínio]()
+Para saber mais sobre o processo de criação e aprendizado, clique em [Linha de raciocínio](https://github.com/DriellySF/LoroPesca/blob/main/linha%20de%20raciocinnio.md)
