@@ -58,10 +58,10 @@ http://localhost:8501
 
 ## Veja a seguir alguns exemplos de perguntas e respostas:
 
-<img src="https://raw.githubusercontent.com/DriellySF/chat/main/img/img%20(5).png" width="600" />
-<img src="https://raw.githubusercontent.com/DriellySF/chat/main/img/img%20(4).png" width="600" />
-<img src="https://raw.githubusercontent.com/DriellySF/chat/main/img/img%20(3).png" width="600" />
-<img src="https://raw.githubusercontent.com/DriellySF/chat/main/img/img%20(2).png" width="600" />
-<img src="https://raw.githubusercontent.com/DriellySF/chat/main/img/img%20(1).png" width="600" />
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/img%20(5).png?raw=true" width="600" />
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/img%20(4).png?raw=trueg" width="600" />
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/img%20(3).png?raw=true" width="600" />
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/img%20(2).png?raw=true" width="600" />
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/img%20(1).png?raw=true" width="600" />
 
 Para saber mais sobre o processo de criação e aprendizado, clique em [Linha de raciocínio](https://github.com/DriellySF/LoroPesca/blob/main/linha%20de%20raciocinnio.md)
