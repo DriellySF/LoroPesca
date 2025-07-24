@@ -58,7 +58,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-<img src="https://github.com/DriellySF/chat/blob/main/img/image.png?raw=true">
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/image.png?raw=true">
 
 Como teste, usei a primeira pergunta: “price of Carretilha Vizel Air 201”, um produto que não existe no dataset. O preço retornado é da CARRETILHA VIZEL AIR 713, indicando que o modelo dá match sem considerar a numeração final. O match deveria ser exato para funcionar corretamente.
 
@@ -158,11 +158,11 @@ if __name__ == "__main__":
 
 Agora a resposta estava correta, indicando que o produto não existia e retornando os existentes:
 
-<img src="https://github.com/DriellySF/chat/blob/main/img/image%201.png?raw=true">
-<img src="https://github.com/DriellySF/chat/blob/main/img/image%202.png?raw=true">
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/image%201.png?raw=true">
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/image%202.png?raw=true">
 Agora vinha a segunda pergunta:
 
-<img src="https://github.com/DriellySF/chat/blob/main/img/image%203.png?raw=true">
+<img src="https://github.com/DriellySF/LoroPesca/blob/main/img/image%203.png?raw=true">
 
 Percebi que ia precisar repensar a lógica do match exato e fazer a “tradução” dos nomes.
 
