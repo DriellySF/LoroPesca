@@ -1,6 +1,8 @@
-# Loro Pesca Q&A App
-Este é um aplicativo de perguntas e respostas sobre o catálogo de produtos da **Loro Pesca**
+# Empresa de Pesca Q&A App
+Este é um aplicativo de perguntas e respostas sobre o catálogo de produtos da **Empresa de Pesca**
 ---
+(Case que fiz para uma entrevista)
+
 
 ## Tecnologias
 - [Streamlit](https://streamlit.io/)
